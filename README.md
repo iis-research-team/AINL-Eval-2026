@@ -35,13 +35,17 @@ If the overall length of submission (in chars) is not less than the initial leng
 
 The team achieving the highest Overall Score wins.
 
-## ✅ How to submit results
+## ✅ How to submit
 
-1. Download *ЗДЕСЬ БУДЕТ ССЫЛКА НА ФАЙЛ* file with the prompts.
-2. Apply your method to compress and improve the prompts. Write the results into the file. Compress the file (only file, not a directory with the file). Ensure that the file has name `submit.csv` and contains fields `id` and `input`.
-3. Go to *ЗДЕСЬ БУДЕТ ССЫЛКА НА КОДАБЕНЧ*.
-4. Submit your file.
-5. If submission is successful, publish the results to Leaderboard.
+1. Download [file](/data/val_set_input.csv) with the prompts.
+2. Apply your method to compress and improve the prompts.
+3. Write the results into the file. Name this file `submit.csv`.
+4. Compress this file (only file, not a directory with the file). Ensure that the file has name `submit.csv` and contains fields `id` and `input`.
+5. Go to [Codabench Competition](https://www.codabench.org/competitions/14291/).
+6. Submit your file.
+7. If submission is successful, publish the results to Leaderboard.
+
+After successful submission, you may download the detailed results: Click on your submission -> Downloads -> Output from scoring step .
 
 ## ⚖️ Participation rules
 
@@ -53,10 +57,13 @@ After the competition is over, we will publish the ground truths for the test se
 
 ## 📌 Important dates
 
-*5 March 2026* - Competion starts
-*27 March 2026* - Test phase is open
-*3 April 2026* – The shared task is closed. Submissions to both dev and test phases are no longer accepted.
-*17-18 April 2026* – AINL 2026 conference. The final results are announced.
+🟢 *5 March 2026* - Competion starts
+
+🟠 *27 March 2026* - Test phase is open
+
+🟠 *3 April 2026* – The shared task is closed. Submissions to both dev and test phases are no longer accepted.
+
+🟠 *17-18 April 2026* – AINL 2026 conference. The final results are announced.
 
 ## 👥 Organizers
 
@@ -65,6 +72,15 @@ Elena Bruches (IIS SB RAS, NSU)
 Valentin Malykh (MIPT University, ITMO University)
 
 Tatiana Batura (IIS SB RAS)
+
+## ☎️ Our contacts
+
+If you have any questions, feel free to ask them in any way:
+
+1. Create Issue in this repo
+2. Write in TG channel: https://t.me/ainlconf
+3. Write in VK.com: https://vk.com/ainlconf
+4. Write to e-mail: bruches@bk.ru
 
 
 
