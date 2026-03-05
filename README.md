@@ -1,6 +1,10 @@
-# AINL-Eval 2026 Shared Task at AINL 2026
+# 🏆 AINL-Eval 2026 Shared Task at AINL 2026
 
-Welcome to the repository for the AINL-Eval 2025 shared task on propmpt compression held as part of the [AINL 2026](https://ainlconf.ru/) conference.
+Welcome to the repository for the **AINL-Eval 2026** shared task on prompt compression held as part of the [AINL 2026](https://ainlconf.ru/) conference.
+
+
+<img src="ainl-eval-2026.jpg" width="400">
+
 
 ## 💡 Motivation
 
@@ -51,8 +55,8 @@ After the competition is over, we will publish the ground truths for the test se
 
 *5 March 2026* - Competion starts
 *27 March 2026* - Test phase is open
-*3 April 2025* – The shared task is closed. Submissions to both dev and test phases are no longer accepted.
-*17-18 April 2025* – AINL 2025 conference. The final results are announced.
+*3 April 2026* – The shared task is closed. Submissions to both dev and test phases are no longer accepted.
+*17-18 April 2026* – AINL 2026 conference. The final results are announced.
 
 ## 👥 Organizers
 
