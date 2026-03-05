@@ -49,9 +49,11 @@ After successful submission, you may download the detailed results: Click on you
 
 ## ⚖️ Participation rules
 
+During the Development phase each team has **3 attempts to submit per day**.
+
 Final results will be obtained on the private test set and announced during the AINL 2026 conference. 
 
-Each team will have 3 attempts to submit final results. 
+Each team will have **3 attempts to submit final results** at all. 
 
 After the competition is over, we will publish the ground truths for the test set, so the participants could perform some ablation studies.
 
