@@ -80,7 +80,7 @@ Tatiana Batura (IIS SB RAS)
 If you have any questions, feel free to ask them in any way:
 
 1. Create Issue in this repo
-2. Write in TG channel: https://t.me/ainlconf
+2. Write in TG channel: https://t.me/ainleval2026
 3. Write in VK.com: https://vk.com/ainlconf
 4. Write to e-mail: bruches@bk.ru
 
