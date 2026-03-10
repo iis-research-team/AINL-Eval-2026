@@ -5,4 +5,4 @@ For example, instead of `“Answer the question: What city is the capital of Rus
 
 ❗️ Solutions with direct answer in the prompt will be discarded in the Final stage.
 
-3. If the __prompt__ includes context, modifying the context is permitted.
+2. If the __prompt__ includes context, modifying the context is permitted.
