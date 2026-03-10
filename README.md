@@ -49,6 +49,8 @@ After successful submission, you may download the detailed results: Click on you
 
 ## ⚖️ Participation rules
 
+See the Competition rules [here](rules.md).
+
 During the Development phase each team has **3 attempts to submit per day**.
 
 Final results will be obtained on the private test set and announced during the AINL 2026 conference. 
