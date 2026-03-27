@@ -37,13 +37,24 @@ The team achieving the highest Overall Score wins.
 
 ## ✅ How to submit
 
+### Development phase
+
 1. Download [file](/data/val_set_input.csv) with the prompts.
 2. Apply your method to compress and improve the prompts.
 3. Write the results into the file. Name this file `submit.csv`.
 4. Compress this file (only file, not a directory with the file). Ensure that the file has name `submit.csv` and contains fields `id` and `input`.
-5. Go to [Codabench Competition](https://www.codabench.org/competitions/14291/).
+5. Go to [Codabench Competition Prompt compression](https://www.codabench.org/competitions/14291/).
 6. Submit your file.
 7. If submission is successful, publish the results to Leaderboard.
+
+### Final phase
+
+1. Download [file](/data/test_set_input.csv) with the prompts.
+2. Apply your method to compress and improve the prompts.
+3. Write the results into the file. Name this file `submit.csv`.
+4. Compress this file (only file, not a directory with the file). Ensure that the file has name `submit.csv` and contains fields `id` and `input`.
+5. Go to [Codabench Competition Prompt compression FINAL STAGE](https://www.codabench.org/competitions/15255/).
+6. Submit your file.
 
 After successful submission, you may download the detailed results: Click on your submission -> Downloads -> Output from scoring step .
 
@@ -61,9 +72,9 @@ After the competition is over, we will publish the ground truths for the test se
 
 ## 📌 Important dates
 
-🟢 *5 March 2026* - Competion starts
+🔴 *5 March 2026* - Competion starts
 
-🟠 *27 March 2026* - Test phase is open
+🟢 *27 March 2026* - Test phase is open
 
 🟠 *3 April 2026* – The shared task is closed. Submissions to both dev and test phases are no longer accepted.
 
