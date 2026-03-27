@@ -8,4 +8,6 @@
 
 ### 📊 Test Phase (27 March - 03 April)
 
-Started soooooon....
+[Input data](/data/test_set_input.csv) - Input prompts that you should compress and optimize.
+
+[Submission example](/data/submit_test_0.1.zip) - Example of submission file. Here 10% or random tokens was removed.
